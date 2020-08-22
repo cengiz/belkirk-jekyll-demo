@@ -18,7 +18,7 @@ services:
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Engineering and Health Sciences
 textline: |
-  Belkirk College of Engineering
+  örnek laboratuar!!!
 
   Ora et Labora
 hero_button:
