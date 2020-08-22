@@ -22,7 +22,7 @@ textline: |
   
   Ora et Labora
 hero_button:
-  text: Learn more
+  text: Daha fazla öğren
   href: "/about"
 show_news: true
 menu:
